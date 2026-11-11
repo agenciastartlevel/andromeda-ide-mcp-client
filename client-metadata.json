@@ -1,0 +1,18 @@
+{
+  "client_id": "https://agenciastartlevel.github.io/andromeda-ide-mcp-client/client-metadata.json",
+  "client_name": "Andrômeda IDE",
+  "redirect_uris": [
+    "http://127.0.0.1:14560/callback",
+    "http://127.0.0.1:14561/callback",
+    "http://127.0.0.1:14562/callback",
+    "http://127.0.0.1:14563/callback",
+    "http://127.0.0.1:14564/callback",
+    "http://127.0.0.1:14565/callback",
+    "http://127.0.0.1:14566/callback",
+    "http://127.0.0.1:14567/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native"
+}
